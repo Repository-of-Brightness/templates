@@ -2,5 +2,5 @@
 
 What we currently have
 
-1. Cornell Notes [https://github.com/Repository-of-Brightness/templates/raw/main/files/cornell.odt]
+1. Cornell Notes | [https://github.com/Repository-of-Brightness/templates/raw/main/files/cornell.odt](https://github.com/Repository-of-Brightness/templates/raw/main/files/cornell.odt)
 2.
